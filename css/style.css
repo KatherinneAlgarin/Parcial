@@ -8,7 +8,7 @@
     margin-top: 30px; 
 }
 .imagen-fondo {
-    background-image: url('backgroundimage.jpg');
+    background-image: url('/imagenes/backgroundimage.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
